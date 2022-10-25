@@ -1,0 +1,16 @@
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.exe
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.deps.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.runtimeconfig.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.runtimeconfig.dev.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.dll
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\bin\Debug\netcoreapp3.1\labFour.pdb
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.Form1.resources
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.AssemblyInfo.cs
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.dll
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.pdb
+C:\Users\Мария\Desktop\СПРБП (Боровской)\labFour\obj\Debug\netcoreapp3.1\labFour.genruntimeconfig.cache
